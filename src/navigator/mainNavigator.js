@@ -5,7 +5,7 @@ import {createDrawerNavigator} from 'react-navigation-drawer';
 import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
-import UserProfileNavigator from '../features/SimpleUserProfile#######/navigator';
+import UserProfileNavigator from '../features/SimpleUserProfile417105/navigator';
 
 /**
  * new navigators can be imported here
